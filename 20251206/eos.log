@@ -1,0 +1,16 @@
+[2025/11/18_23:33:28] <EOS_LOG_Info> LogEOS: Updating Platform SDK Config, Time: 0.090864
+[2025/11/18_23:33:38] <EOS_LOG_Info> LogEOS: SDK Config Platform Update Request Successful, Time: 10.345698
+[2025/11/18_23:33:38] <EOS_LOG_Info> LogEOS: Updating Product SDK Config, Time: 10.362365
+[2025/11/18_23:33:58] <EOS_LOG_Error> LogEOSAntiCheat: [AntiCheatClient] EOS_AntiCheatClient_EndSession: No session is active.
+[2025/11/18_23:34:03] <EOS_LOG_Error> LogEOSAntiCheat: [AntiCheatClient] EOS_AntiCheatClient_EndSession: No session is active.
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: 000001D70705D030: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/sdk/v1/product/773d3a68f76f4b2ebebc5b4127bbad3e?platformId=WIN&deploymentId=d2842e93d53b4c0c98a8f963ebb4c222
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: 000001D70705D030: request failed, libcurl error: 0 (No error)
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: 000001D70705D030: libcurl info message cache 0 (Found bundle for host: 0x1d6c8a0bd10 [serially])
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: 000001D70705D030: libcurl info message cache 1 (Re-using existing connection with proxy 127.0.0.1)
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: 000001D70705D030: libcurl info message cache 2 (Closing connection)
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: 000001D70705D030: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/773d3a68f76f4b2ebebc5b4127bbad3e?platformId=WIN&deploymentId=d2842e93d53b4c0c98a8f963ebb4c222
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025/11/18_23:34:10] <EOS_LOG_Warning> LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 3.084079 seconds
+无法联机至Epic Online Services：03-00001
+无法使用联机模式。
