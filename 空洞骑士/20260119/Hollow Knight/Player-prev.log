@@ -1,0 +1,4097 @@
+Mono path[0] = 'F:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/Managed'
+Mono config path = 'F:/SteamLibrary/steamapps/common/Hollow Knight/MonoBleedingEdge/etc'
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path F:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   
+    VRAM:     5996 MB
+    Driver:   32.0.15.8132
+Begin MonoManager ReloadAssembly
+- Completed reload, in  4.210 seconds
+OnLevelWasLoaded was found on GameMap
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+OnLevelWasLoaded was found on PlayMakerUnity2d
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The class named 'ConfigManager' is abstract. The script class can't be abstract!
+
+UnloadTime: 9.746400 ms
+Graphics tier changed to High
+
+Steam initializing
+
+Steam logged in as binzo
+
+Selected online subsystem SteamOnlineSubsystem
+
+Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded saved language code 'ZH'
+
+Restored language code 'ZH'
+
+
+Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 3824.
+Total: 1.720000 ms (FindLiveObjects: 0.127600 ms CreateObjectMapping: 0.088200 ms MarkObjects: 1.429200 ms  DeleteObjects: 0.074800 ms)
+
+Steam stats received.
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Didn't need to wait for PlayerPrefs load.
+
+UnloadTime: 3.345400 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to None.
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 46215.
+Total: 95.127300 ms (FindLiveObjects: 2.047800 ms CreateObjectMapping: 0.989700 ms MarkObjects: 91.881900 ms  DeleteObjects: 0.207600 ms)
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 332 unused Assets to reduce memory usage. Loaded Objects now: 49245.
+Total: 104.013000 ms (FindLiveObjects: 1.923200 ms CreateObjectMapping: 1.063900 ms MarkObjects: 99.126000 ms  DeleteObjects: 1.899500 ms)
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Tilemap TileMap is still in edit mode. Please fix.Building overhead will be significant.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Tilemap TileMap is still in edit mode. Please fix.Building overhead will be significant.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.005290985
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Ruins1_24_boss_defeated in sequence
+
+PlayOneShot was called with a null AudioClip.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.005500793
+
+Could not find FSM: Mage Lord
+
+Could not find FSM: Mage Lord
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool could not find a copy of Mage Orb Over, Instantiating a new one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool could not find a copy of Shockwave Spurt, Instantiating a new one.
+
+Object Pool attached to GlobalPool could not find a copy of Shockwave Spurt L, Instantiating a new one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Ruins1_24_boss_defeated in sequence
+
+PlayOneShot was called with a null AudioClip.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.005500793
+
+Could not find FSM: Mage Lord
+
+Could not find FSM: Mage Lord
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Fireball Top prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Fireball Top prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Ruins1_24_boss_defeated in sequence
+
+PlayOneShot was called with a null AudioClip.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.005500793
+
+Could not find FSM: Mage Lord
+
+Could not find FSM: Mage Lord
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Unloading 57 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.869200 ms
+Deferring level start (marked as manual).
+
+
+Unloading 3126 unused Assets to reduce memory usage. Loaded Objects now: 54877.
+Total: 149.978500 ms (FindLiveObjects: 3.251800 ms CreateObjectMapping: 1.683400 ms MarkObjects: 139.300500 ms  DeleteObjects: 5.742400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.619500 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 566 unused Assets to reduce memory usage. Loaded Objects now: 47682.
+Total: 123.707400 ms (FindLiveObjects: 2.350900 ms CreateObjectMapping: 1.156100 ms MarkObjects: 118.754900 ms  DeleteObjects: 1.445200 ms)
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 338 unused Assets to reduce memory usage. Loaded Objects now: 50235.
+Total: 127.469000 ms (FindLiveObjects: 2.271800 ms CreateObjectMapping: 1.157000 ms MarkObjects: 122.796300 ms  DeleteObjects: 1.243500 ms)
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool could not find a copy of Audio Player NoDestroy, Instantiating a new one.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 39 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 732 unused Assets to reduce memory usage. Loaded Objects now: 57882.
+Total: 153.287400 ms (FindLiveObjects: 3.019200 ms CreateObjectMapping: 1.202100 ms MarkObjects: 147.561800 ms  DeleteObjects: 1.504000 ms)
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.841900 ms
+Deferring level start (marked as manual).
+
+
+Unloading 992 unused Assets to reduce memory usage. Loaded Objects now: 53835.
+Total: 139.106800 ms (FindLiveObjects: 2.389500 ms CreateObjectMapping: 1.131600 ms MarkObjects: 133.463700 ms  DeleteObjects: 2.120500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357400 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 438 unused Assets to reduce memory usage. Loaded Objects now: 48599.
+Total: 116.918300 ms (FindLiveObjects: 2.378400 ms CreateObjectMapping: 1.157100 ms MarkObjects: 112.319700 ms  DeleteObjects: 1.062800 ms)
+
+Making UI menu lean.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 332 unused Assets to reduce memory usage. Loaded Objects now: 51124.
+Total: 147.916000 ms (FindLiveObjects: 3.078900 ms CreateObjectMapping: 1.281200 ms MarkObjects: 141.908500 ms  DeleteObjects: 1.646800 ms)
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Bump Height: 0.0052948
+
+Bump Height: 0.0052948
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Tilemap TileMap is still in edit mode. Please fix.Building overhead will be significant.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Tilemap TileMap is still in edit mode. Please fix.Building overhead will be significant.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Bump Height: 0.0052948
+
+Bump Height: 0.0052948
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+Bump Height: 0.0052948
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.0052948
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.00528717
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (1) does not have a Hazard Respawn Marker Set
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: Control Lever
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Could not find FSM: Control Lever
+
+Object Pool attached to GlobalPool has run out of Slash Impact R prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Strike Nail R prefabs, Instantiating an additional one.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (1) does not have a Hazard Respawn Marker Set
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (1) does not have a Hazard Respawn Marker Set
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool could not find a copy of Audio Player NoDestroy, Instantiating a new one.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Unloading 42 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1382 unused Assets to reduce memory usage. Loaded Objects now: 59291.
+Total: 156.238100 ms (FindLiveObjects: 3.413100 ms CreateObjectMapping: 1.623900 ms MarkObjects: 148.764500 ms  DeleteObjects: 2.436200 ms)
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+PlayOneShot was called with a null AudioClip.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.00528717
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Bump Height: 0.05654907
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (1) does not have a Hazard Respawn Marker Set
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (1) does not have a Hazard Respawn Marker Set
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.0052948
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.0052948
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.0052948
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Hazard Respawn Trigger (2) does not have a Hazard Respawn Marker Set
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+Could not find FSM: health_manager_enemy
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerCollisionEnter2D
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Tilemap TileMap is still in edit mode. Please fix.Building overhead will be significant.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Bump Height: 0.005290985
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Could not find FSM: Control Lever
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Chain BG Chain R going up.
+
+Chain BG Chain L going down.
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain R going down.
+
+Chain BG Chain L going up.
+
+Could not find FSM: Control Lever
+
+Chain BG Chain L stopping.
+
+Chain BG Chain R stopping.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Ruins1_24_boss_defeated in sequence
+
+PlayOneShot was called with a null AudioClip.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.005500793
+
+Could not find FSM: Mage Lord
+
+Could not find FSM: Mage Lord
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool could not find a copy of Shockwave Spurt, Instantiating a new one.
+
+Object Pool attached to GlobalPool could not find a copy of Shockwave Spurt L, Instantiating a new one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool could not find a copy of Mage Orb Over, Instantiating a new one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Object Pool attached to GlobalPool has run out of Mage Orb Over prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Run Effects prefabs, Instantiating an additional one.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Fireball Top prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Ruins1_24_boss_defeated in sequence
+
+PlayOneShot was called with a null AudioClip.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+Persistent Bool Item - Couldn't reset value on FSM because it's missing.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Deferring level start (marked as manual).
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Bump Height: 0.005500793
+
+Bump Height: 0.005500793
+
+Could not find FSM: Mage Lord
+
+Could not find FSM: Mage Lord
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+Object Pool attached to GlobalPool has run out of Shockwave Spurt L prefabs, Instantiating an additional one.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+PlayOneShot was called with a null AudioClip.
+
+Deferring level start (marked as manual).
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+
+Additively loaded scene: Ruins1_24_boss_defeated in sequence
+
+Unloading 59 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.704700 ms
+Deferring level start (marked as manual).
+
+
+Unloading 3338 unused Assets to reduce memory usage. Loaded Objects now: 57138.
+Total: 151.346100 ms (FindLiveObjects: 3.313300 ms CreateObjectMapping: 1.662800 ms MarkObjects: 140.599400 ms  DeleteObjects: 5.770200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340500 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+
+Performing automatic level start.
+
+Game controller set to XInput Controller.
+
+Controller Type: XboxOne
+
+Active Gamepad Type: XBOX_ONE
+
+Game controller set to XInput Controller.
+
+pd.maxHealth: 6 pd.maxHealthBase: 6
+
+
+Unloading 566 unused Assets to reduce memory usage. Loaded Objects now: 49828.
+Total: 120.216000 ms (FindLiveObjects: 2.015500 ms CreateObjectMapping: 0.961800 ms MarkObjects: 115.924000 ms  DeleteObjects: 1.314200 ms)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 54d8 -> priority: 1 
+  Thread -> id: 72c4 -> priority: 1 
+  Thread -> id: 76cc -> priority: 1 
+  Thread -> id: 3920 -> priority: 1 
+  Thread -> id: 4988 -> priority: 1 
+  Thread -> id: 73e0 -> priority: 1 
+  Thread -> id: 2a98 -> priority: 1 
+  Thread -> id: 359c -> priority: 1 
+Shutting down Steam API.
+
